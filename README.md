@@ -1,6 +1,6 @@
 # Assignment 01
 **TODO List**
-**Due Date: 
+**Due Date: Week 7 3/9/2017**
 ## Assignment Specification
 Develop a ToDo List that allows users to manage tasks.
 * It should allow the user to create, read(diplay), edit and delete tasks.
